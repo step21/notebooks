@@ -1,2 +1,5 @@
 seaborn
-BeautifulSoup
+sqlalchemy
+BeautifulSoup4
+pandas
+untangle
