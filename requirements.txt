@@ -1,3 +1,6 @@
 seaborn
-BeautifulSoup
 jupyter_contrib_nbextensions
+sqlalchemy
+BeautifulSoup4
+pandas
+untangle
